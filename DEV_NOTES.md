@@ -38,3 +38,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added inline documentation for core functions
 - Investigated performance bottleneck, noted findings
 - Verified compatibility with latest runtime version
+
+## 2026-05-06
+- Added CONTRIBUTING.md stub
+- Updated .gitignore to exclude build artifacts
+- Reviewed open issues, added labels
